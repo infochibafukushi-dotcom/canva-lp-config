@@ -1,0 +1,16 @@
+{
+  "sections": [
+    {
+      "id": "hero",
+      "type": "normal",
+      "title": "千葉ケアタクシー",
+      "text": "安心・安全な送迎サービス",
+      "visible": true
+    }
+  ],
+  "cta": {
+    "phone": "012-345-6789",
+    "line": "https://line.me/",
+    "reserve": "https://example.com"
+  }
+}
